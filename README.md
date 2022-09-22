@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eshaaan11
-- 👀 I’m interested in codimg
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - eshaan1233@gmail.com
